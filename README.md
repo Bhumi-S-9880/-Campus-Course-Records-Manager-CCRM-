@@ -60,23 +60,6 @@ In this project, `Person` was chosen as an **abstract class** because `Student` 
 
 ---
 
-## Features Demonstration Table 
-
-| Syllabus Topic                 | File / Class / Method Where Demonstrated                            |
-| ------------------------------ | ------------------------------------------------------------------- |
-| Packages                       | `edu.ccrm.domain`, `edu.ccrm.service`, etc.                         |
-| Encapsulation                  | `Person.java` (private fields with public getters/setters)          |
-| Inheritance                    | `Student.java` extends `Person`                                     |
-| Abstraction (Abstract Class)   | `Person.java` (abstract class with an abstract method)              |
-| Polymorphism                   | |
-| Singleton Design Pattern       | |
-| Builder Design Pattern         | |
-| Custom Exceptions              | |
-| NIO.2 File I/O                 | |
-| Lambdas & Stream API           | |
-| Recursion                      | |
-| Enums with Constructors        | `Grade.java`                                                        |
-
 ---
 
 ## Acknowledgements
